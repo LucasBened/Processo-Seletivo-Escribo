@@ -38,4 +38,4 @@ O projeto foi feito com o uso da biblioteca [readLineSync](https://github.com/an
 ---
 
 ## Agradecimento
-Agradeço a Escribo por esta oportunidade de botar em prática meus conhecimentos!
+Agradeço a Escribo por está oportunidade de botar em prática meus conhecimentos!
