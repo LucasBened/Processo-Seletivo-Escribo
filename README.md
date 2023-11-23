@@ -7,8 +7,8 @@
 Este projeto implementa um script simples em Node.js para calcular a soma de todos os números múltiplos de 3 ou 5 até um valor inteiro fornecido pelo usuário.
 
 ## Pré-requisitos
-- Node.js instalado (versão x.y.z)
-- npm (gerenciador de pacotes do Node.js) instalado
+- [Node.js](https://nodejs.org/en) instalado (20.10.0 LTS)
+- [npm](https://www.npmjs.com) (gerenciador de pacotes do Node.js) instalado
 
 ## Biblioteca utilizada
 
