@@ -17,7 +17,7 @@ Foi feito o uso da biblioteca [readLineSync](https://github.com/anseki/readline-
 ## Instalação do projeto
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/soma-multiplos-3-5.git
+    git clone https://github.com/LucasBened/Processo-Seletivo-Escribo
     ```
 
 3. **Instale as dependências:**
