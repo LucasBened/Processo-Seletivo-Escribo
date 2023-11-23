@@ -4,13 +4,13 @@
 # Projeto: Soma de Múltiplos de 3 e 5 (Processo Seletivo)
 
 ## Descrição
-Este projeto implementa um script simples em Node.js para calcular a soma de todos os números múltiplos de 3 ou 5 até um valor inteiro fornecido pelo usuário.
+Este projeto foi feito utilizando Javascript para o processo seletivo da Escribo. Consiste em um código que implementa um script simples em Node.js para calcular a soma de todos os números múltiplos de 3 ou 5 até um valor inteiro fornecido pelo usuário.
 
 ## Pré-requisitos
-- [Node.js](https://nodejs.org/en) instalado (20.10.0 LTS)
+- [Node.js](https://nodejs.org/en) instalado (Versão utilizada: 20.10.0 LTS)
 - [npm](https://www.npmjs.com) (gerenciador de pacotes do Node.js) instalado
 
-## Biblioteca utilizada
+## Bibliotecas utilizadas
 
 O projeto foi feito com o uso da biblioteca [readLineSync](https://github.com/anseki/readline-sync) do JavaScript, para que pudesse ser adicionado valores no próprio terminal.
 
@@ -36,3 +36,6 @@ O projeto foi feito com o uso da biblioteca [readLineSync](https://github.com/an
 
 
 ---
+
+## Agradecimento
+Agradeço a Escribo por esta oportunidade de botar em prática meus conhecimentos!
