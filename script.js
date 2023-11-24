@@ -13,4 +13,3 @@ const getNumbers = (valInt) =>{
 }
 
 getNumbers(numInt)
-
