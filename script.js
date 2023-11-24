@@ -5,7 +5,7 @@ let nums = 0
 
 const getNumbers = (valInt) =>{
     for(i = 0; i < valInt; i++){    
-        if(i < valInt && ( i % 3 === 0 || i % 5 == 0)){  
+        if(i < valInt && ( i % 3 === 0 || i % 5 === 0)){  
             nums += i
         }
     }
