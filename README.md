@@ -30,8 +30,13 @@ O projeto foi feito com o uso da biblioteca [readLineSync](https://github.com/an
     ```bash
     node script.js
     ```
+    **Ou**
+    ```
+    node script
+    ```
 
 2. **Instruções:**
+
     Você será solicitado a digitar um valor desejado. Após inserir o valor, o script calculará a soma de todos os números múltiplos de 3 ou 5 até o valor inserido.
 
 
